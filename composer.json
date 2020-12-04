@@ -1,0 +1,13 @@
+{
+    "name": "sena/test",
+    "description": "aplicacion didactida",
+    "type": "project",
+    "license": "open source",
+    "authors": [
+        {
+            "name": "OscarYulian",
+            "email": "oyparra03@misena.edu.co"
+        }
+    ],
+    "require": {}
+}
